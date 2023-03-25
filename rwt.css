@@ -1,0 +1,68 @@
+li{
+  color: white;
+}
+
+#RWT{
+  color: black;
+  font-weight: bolder;
+  font-size: 100px;
+}
+
+.div-1 {
+    background-color: green;
+}
+.div-2 {
+    background-color: yellow;
+    height: 300px;
+}
+.div-3 {
+    background-color: green;
+    height: 300px
+}
+
+
+h1,h2{
+  color: white;
+}
+
+body {
+  background-color: orangered;
+}
+
+head {
+  color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h4 {
+  color: black;
+  font-size: 50;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+img {
+  border-width: 10px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: white;
+}
+
+iframe{
+
+  border-width: 10px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: white;
+}
+
+.redtext{
+  color: greenyellow;
+}
